@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Flow",
+  "description": "A visual workflow automation platform for building powerful applications with Google's Gemini models. Connect nodes to create complex AI-driven automations, similar to n8n, but specifically for Gemini.",
+  "requestFramePermissions": []
+}
